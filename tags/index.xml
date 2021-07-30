@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kaiqi Wang | Personal blog template</title>
-    <link>https://kaiqiwan.github.io/liva/tags/</link>
+    <link>https://kaiqiwan.github.io/tags/</link>
     <description>Recent content in Tags on Kaiqi Wang | Personal blog template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://kaiqiwan.github.io/liva/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://kaiqiwan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game</title>
-      <link>https://kaiqiwan.github.io/liva/tags/game/</link>
+      <link>https://kaiqiwan.github.io/tags/game/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://kaiqiwan.github.io/liva/tags/game/</guid>
+      <guid>https://kaiqiwan.github.io/tags/game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTML</title>
-      <link>https://kaiqiwan.github.io/liva/tags/html/</link>
+      <link>https://kaiqiwan.github.io/tags/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://kaiqiwan.github.io/liva/tags/html/</guid>
+      <guid>https://kaiqiwan.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>https://kaiqiwan.github.io/liva/tags/new/</link>
+      <link>https://kaiqiwan.github.io/tags/new/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://kaiqiwan.github.io/liva/tags/new/</guid>
+      <guid>https://kaiqiwan.github.io/tags/new/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://kaiqiwan.github.io/liva/tags/photos/</link>
+      <link>https://kaiqiwan.github.io/tags/photos/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://kaiqiwan.github.io/liva/tags/photos/</guid>
+      <guid>https://kaiqiwan.github.io/tags/photos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://kaiqiwan.github.io/liva/tags/python/</link>
+      <link>https://kaiqiwan.github.io/tags/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://kaiqiwan.github.io/liva/tags/python/</guid>
+      <guid>https://kaiqiwan.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://kaiqiwan.github.io/liva/tags/react/</link>
+      <link>https://kaiqiwan.github.io/tags/react/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://kaiqiwan.github.io/liva/tags/react/</guid>
+      <guid>https://kaiqiwan.github.io/tags/react/</guid>
       <description></description>
     </item>
     
